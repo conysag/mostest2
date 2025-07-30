@@ -85,26 +85,11 @@ function Display() {
 
 // load text file
 function loadText(filename) {
-    console.log("Loading file: " + filename);
     var xhr = new XMLHttpRequest();
     xhr.open("GET", filename, false);
     xhr.send(null);
-    
-    if (xhr.status !== 200) {
-        console.error("Failed to load file: " + filename + ", status: " + xhr.status);
-        return [];
-    }
-    
     var list = xhr.responseText.split(/\r\n|\r|\n/);
-    console.log("Raw file content length: " + list.length);
-    
-    // Remove empty lines
-    list = list.filter(function(line) {
-        return line.trim() !== "";
-    });
-    
-    console.log("Filtered file content length: " + list.length);
-    console.log("First few lines: " + list.slice(0, 3));
+    list.pop();
 
     return list;
 }
@@ -113,14 +98,10 @@ function loadText(filename) {
 function makeFileList(method_paths) {
     var files = [];
     for (var i = 0; i < method_paths.length; i++) {
-        console.log("Processing method path: " + method_paths[i]);
         tmp = loadText(method_paths[i]);
-        console.log("Loaded " + tmp.length + " files from " + method_paths[i]);
         files = files.concat(tmp);
     }
-    console.log("Total files before shuffle: " + files.length);
     files.shuffle();
-    console.log("Total files after shuffle: " + files.length);
     return files;
 }
 
