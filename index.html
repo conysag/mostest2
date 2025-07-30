@@ -105,25 +105,12 @@
         </p>
 
         <p>
-            <label for="rank1">最も影響した要素 (1位) / Most influential element (1st):</label><br>
-            <select id="rank1" name="rank1">
-                <option value="">選択してください / Please select</option>
-                <option value="rhythm">①リズム (Rhythm)</option>
-                <option value="melody">②メロディー (Melody)</option>
-                <option value="chord">③コード (Chord)</option>
-                <option value="complexity">④複雑さ (Complexity)</option>
-            </select>
-        </p>
-
-        <p>
-            <label for="rank2">2番目に影響した要素 (2位) / Second most influential element (2nd):</label><br>
-            <select id="rank2" name="rank2">
-                <option value="">選択してください / Please select</option>
-                <option value="rhythm">①リズム (Rhythm)</option>
-                <option value="melody">②メロディー (Melody)</option>
-                <option value="chord">③コード (Chord)</option>
-                <option value="complexity">④複雑さ (Complexity)</option>
-            </select>
+            <label>影響した要素 (複数選択可) / Influential elements (multiple selection allowed):</label><br>
+            <label><input type="checkbox" name="elements" value="rhythm">①リズム (Rhythm)</label><br>
+            <label><input type="checkbox" name="elements" value="melody">②メロディー (Melody)</label><br>
+            <label><input type="checkbox" name="elements" value="chord">③コード (Chord)</label><br>
+            <label><input type="checkbox" name="elements" value="complexity">④複雑さ (Complexity)</label><br>
+            <label><input type="checkbox" name="elements" value="none">⑤影響なし (None)</label><br>
         </p>
 
         <p>

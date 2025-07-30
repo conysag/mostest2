@@ -70,8 +70,7 @@ function start_experiment() {
     outfile = name + "_set" + set_num + ".csv";
     scores = (new Array(file_list.length)).fill(0);
     comments = (new Array(file_list.length)).fill("");
-    rank1s = (new Array(file_list.length)).fill("");
-    rank2s = (new Array(file_list.length)).fill("");
+    elements = (new Array(file_list.length)).fill("");
     eval = document.getElementsByName("eval");
     init();
 }
@@ -118,7 +117,7 @@ function init() {
     setAudio();
     evalCheck();
     commentCheck();
-    rankCheck();
+    elementsCheck();
     setButton();
 }
 
@@ -138,9 +137,33 @@ function commentCheck() {
     document.getElementById("comment").value = comments[n];
 }
 
-function rankCheck() {
-    document.getElementById("rank1").value = rank1s[n];
-    document.getElementById("rank2").value = rank2s[n];
+function elementsCheck() {
+    // Clear all checkboxes first
+    var checkboxes = document.getElementsByName("elements");
+    for (var i = 0; i < checkboxes.length; i++) {
+        checkboxes[i].checked = false;
+    }
+    
+    // Set checkboxes based on saved data
+    if (elements[n] !== "") {
+        var selectedElements = elements[n].split(",");
+        for (var i = 0; i < checkboxes.length; i++) {
+            if (selectedElements.includes(checkboxes[i].value)) {
+                checkboxes[i].checked = true;
+            }
+        }
+    }
+}
+
+function saveElements() {
+    var checkboxes = document.getElementsByName("elements");
+    var selectedElements = [];
+    for (var i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].checked) {
+            selectedElements.push(checkboxes[i].value);
+        }
+    }
+    elements[n] = selectedElements.join(",");
 }
 
 function setButton() {
@@ -183,12 +206,11 @@ function evaluation() {
 }
 
 function exportCSV() {
-    var csvData = "File,Score,Rank1,Rank2,Comment\n";
+    var csvData = "File,Score,Elements,Comment\n";
     for (var i = 0; i < file_list.length; i++) {
         csvData += "" + file_list[i] + ","
             + scores[i] + ","
-            + rank1s[i] + ","
-            + rank2s[i] + ","
+            + elements[i] + ","
             + "\"" + comments[i].replace(/"/g, '""') + "\"\r\n";
     }
 
@@ -208,38 +230,35 @@ function exportCSV() {
 }
 
 function next() {
-    // Save current comment and ranks
+    // Save current comment and elements
     comments[n] = document.getElementById("comment").value;
-    rank1s[n] = document.getElementById("rank1").value;
-    rank2s[n] = document.getElementById("rank2").value;
+    saveElements();
     
     n++;
     setAudio();
     evalCheck();
     commentCheck();
-    rankCheck();
+    elementsCheck();
     setButton();
 }
 
 function prev() {
-    // Save current comment and ranks
+    // Save current comment and elements
     comments[n] = document.getElementById("comment").value;
-    rank1s[n] = document.getElementById("rank1").value;
-    rank2s[n] = document.getElementById("rank2").value;
+    saveElements();
     
     n--;
     setAudio();
     evalCheck();
     commentCheck();
-    rankCheck();
+    elementsCheck();
     setButton();
 }
 
 function finish() {
-    // Save current comment and ranks
+    // Save current comment and elements
     comments[n] = document.getElementById("comment").value;
-    rank1s[n] = document.getElementById("rank1").value;
-    rank2s[n] = document.getElementById("rank2").value;
+    saveElements();
     
     exportCSV();
 }
@@ -256,8 +275,7 @@ var outfile;
 var file_list;
 var scores;
 var comments;
-var rank1s;
-var rank2s;
+var elements;
 
 // since loadText() doesn't work in local
 var n = 0;
