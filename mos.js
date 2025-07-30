@@ -11,7 +11,7 @@ Array.prototype.shuffle = function () {
 
 // invalid enter key
 function invalid_enter() {
-    if (window.event.keyCode == 13) {
+    if (window.event && window.event.keyCode == 13) {
         return false;
     }
 }
@@ -60,7 +60,9 @@ function start_experiment() {
     /*
         or you can write simply as
     */
-    method_paths.push("lists/15_lists/list_" + set_num + ".txt");
+    // Pad set_num with leading zero if needed
+    var padded_set_num = set_num.padStart(2, '0');
+    method_paths.push("lists/15_lists/list_" + padded_set_num + ".txt");
     // method_paths.push(wav_dir + "set" + set_num + "/method2.list");
     /*
         end
