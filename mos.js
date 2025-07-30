@@ -87,7 +87,11 @@ function loadText(filename) {
     xhr.open("GET", filename, false);
     xhr.send(null);
     var list = xhr.responseText.split(/\r\n|\r|\n/);
-    list.pop();
+    
+    // Remove empty lines
+    list = list.filter(function(line) {
+        return line.trim() !== "";
+    });
 
     return list;
 }
