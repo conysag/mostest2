@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Jazziness evaluation test</title>
+    <title>Jazz elements evaluation test</title>
 </head>
 
 <body>
@@ -12,13 +12,13 @@
     <!-- 注意書きなど -->
     <div style="border:1px solid #000000; padding: 10px; border-radius: 0px; background: #ffffff;">
         <p>
-        <h1>Jazziness evaluation test</h1>
+        <h1>Jazz elements evaluation test</h1>
 
         <h2>Experimental Procedure</h2>
         <ol>
             <li>Enter your name and select the set list number (choose any number you like).</li>
             <li>Press "Start Experiment" button.</li>
-            <li>Listen to the music samples and rate the <b>jazz influence</b>.</li>
+            <li>Listen to the music samples and rate the <b>jazz elements</b>.</li>
             <li>Press "next" button and start next evaluation.</li>
             <li>When you finish this experiment, press "finish" button and download the result.<br>
                 Send it to Minseok Kim on slack or the following email address.</li>
@@ -34,11 +34,11 @@
             <li>Please use headphones for this experiment.</li>
         </ul>
 
-        <h2>段階別評価例</h2>
+        <h2>段階別評価例 / Evaluation Examples</h2>
         <ul>
-            <li>① ジャズ的要素なし</li>
-            <li>③ 中程度のジャズ的要素</li>
-            <li>⑤ ジャズ</li>
+            <li>① ジャズ的要素なし / No jazz elements</li>
+            <li>③ 中程度のジャズ的要素 / Moderate jazz elements</li>
+            <li>⑤ ジャズ / Jazz</li>
         </ul>
 
         <!-- <h2>実験手順</h2>
@@ -97,38 +97,38 @@
         <p id="page"></p>
         <p id="audio"></p>
         <p>
-            <label><input type="radio" name="eval" onclick="evaluation()">1 (ジャズ的要素なし)</label><br>
-            <label><input type="radio" name="eval" onclick="evaluation()">2 (わずかにジャズ的要素を感じる)</label><br>
-            <label><input type="radio" name="eval" onclick="evaluation()">3 (中程度のジャズ的要素)</label><br>
-            <label><input type="radio" name="eval" onclick="evaluation()">4 (ジャズ的要素を強く感じる)</label><br>
-            <label><input type="radio" name="eval" onclick="evaluation()">5 (ジャズ)</label><br>
+            <label><input type="radio" name="eval" onclick="evaluation()">1 (ジャズ的要素なし / No jazz elements)</label><br>
+            <label><input type="radio" name="eval" onclick="evaluation()">2 (わずかにジャズ的要素を感じる / Slightly feel jazz elements)</label><br>
+            <label><input type="radio" name="eval" onclick="evaluation()">3 (中程度のジャズ的要素 / Moderate jazz elements)</label><br>
+            <label><input type="radio" name="eval" onclick="evaluation()">4 (ジャズ的要素を強く感じる / Strongly feel jazz elements)</label><br>
+            <label><input type="radio" name="eval" onclick="evaluation()">5 (ジャズ / Jazz)</label><br>
         </p>
 
         <p>
-            <label for="rank1">最も影響した要素 (1位):</label><br>
+            <label for="rank1">最も影響した要素 (1位) / Most influential element (1st):</label><br>
             <select id="rank1" name="rank1">
-                <option value="">選択してください</option>
-                <option value="rhythm">①リズム</option>
-                <option value="melody">②メロディー</option>
-                <option value="chord">③コード</option>
-                <option value="complexity">④複雑さ</option>
+                <option value="">選択してください / Please select</option>
+                <option value="rhythm">①リズム (Rhythm)</option>
+                <option value="melody">②メロディー (Melody)</option>
+                <option value="chord">③コード (Chord)</option>
+                <option value="complexity">④複雑さ (Complexity)</option>
             </select>
         </p>
 
         <p>
-            <label for="rank2">2番目に影響した要素 (2位):</label><br>
+            <label for="rank2">2番目に影響した要素 (2位) / Second most influential element (2nd):</label><br>
             <select id="rank2" name="rank2">
-                <option value="">選択してください</option>
-                <option value="rhythm">①リズム</option>
-                <option value="melody">②メロディー</option>
-                <option value="chord">③コード</option>
-                <option value="complexity">④複雑さ</option>
+                <option value="">選択してください / Please select</option>
+                <option value="rhythm">①リズム (Rhythm)</option>
+                <option value="melody">②メロディー (Melody)</option>
+                <option value="chord">③コード (Chord)</option>
+                <option value="complexity">④複雑さ (Complexity)</option>
             </select>
         </p>
 
         <p>
-            <label for="comment">選んだ理由 (任意): <br>
-            <textarea id="comment" name="comment" rows="4" cols="50" placeholder="テンポ、リズム、メロディー、和声 など"></textarea></label>
+            <label for="comment">選んだ理由 (任意) / Reason for your choice (optional): <br>
+            <textarea id="comment" name="comment" rows="4" cols="50" placeholder="テンポ、リズム、メロディー、和声 など / Tempo, rhythm, melody, harmony, etc."></textarea></label>
         </p>
 
         <p>
