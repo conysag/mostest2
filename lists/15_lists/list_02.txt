@@ -1,40 +1,40 @@
-0.0-0.1_Just Because.wav
-0.0-0.1_Adagio in G minor.wav
-0.0-0.1_Here Comes My Baby.wav
-0.0-0.1_Something About The Way You Look Tonight.wav
-0.1-0.2_Cosas Del Amor.wav
-0.1-0.2_You Needed Me.wav
-0.1-0.2_Ragazzo Fortunato.wav
-0.1-0.2_Late Summer Fields (ft Alucard).wav
-0.2-0.3_Ruegame.wav
-0.2-0.3_The Alaskan Rag.wav
-0.2-0.3_There Goes My Baby.wav
-0.2-0.3_The Last Farewell.wav
-0.3-0.4_The Entertainer.wav
-0.3-0.4_All By Myself.wav
-0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
-0.3-0.4_Round Midnight.wav
-0.4-0.5_Song For The Dumped.wav
-0.4-0.5_Allemande (by JS Bach).wav
-0.4-0.5_All The Things You Are.wav
-0.4-0.5_Stella By Starlight.wav
-0.5-0.6_Interlude 1.wav
-0.5-0.6_Woman In Love.wav
-0.5-0.6_Killing Me Softly.wav
-0.5-0.6_Kismet Rag.wav
-0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
-0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
-0.6-0.7_Joy.wav
-0.6-0.7_A Secret Love.wav
-0.7-0.8_Sicilienne.wav
-0.7-0.8_Still Crazy After All These Years.wav
-0.7-0.8_Mind Games (Album Version).wav
-0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
-0.8-0.9_Sonatine Mouvement de menuet.wav
-0.8-0.9_Shadows Of Time.wav
-0.8-0.9_Piece By Piece.wav
-0.8-0.9_Babys House (Digitally Remastered 90).wav
-0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
-0.9-1.0_The Way We Were.wav
-0.9-1.0_What Am I Here For.wav
-0.9-1.0_Until It's Time For You To Go - Live.wav
+lists/audio/0.0-0.1_Just Because.wav
+lists/audio/0.0-0.1_Adagio in G minor.wav
+lists/audio/0.0-0.1_Here Comes My Baby.wav
+lists/audio/0.0-0.1_Something About The Way You Look Tonight.wav
+lists/audio/0.1-0.2_Cosas Del Amor.wav
+lists/audio/0.1-0.2_You Needed Me.wav
+lists/audio/0.1-0.2_Ragazzo Fortunato.wav
+lists/audio/0.1-0.2_Late Summer Fields (ft Alucard).wav
+lists/audio/0.2-0.3_Ruegame.wav
+lists/audio/0.2-0.3_The Alaskan Rag.wav
+lists/audio/0.2-0.3_There Goes My Baby.wav
+lists/audio/0.2-0.3_The Last Farewell.wav
+lists/audio/0.3-0.4_The Entertainer.wav
+lists/audio/0.3-0.4_All By Myself.wav
+lists/audio/0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
+lists/audio/0.3-0.4_Round Midnight.wav
+lists/audio/0.4-0.5_Song For The Dumped.wav
+lists/audio/0.4-0.5_Allemande (by JS Bach).wav
+lists/audio/0.4-0.5_All The Things You Are.wav
+lists/audio/0.4-0.5_Stella By Starlight.wav
+lists/audio/0.5-0.6_Interlude 1.wav
+lists/audio/0.5-0.6_Woman In Love.wav
+lists/audio/0.5-0.6_Killing Me Softly.wav
+lists/audio/0.5-0.6_Kismet Rag.wav
+lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+lists/audio/0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
+lists/audio/0.6-0.7_Joy.wav
+lists/audio/0.6-0.7_A Secret Love.wav
+lists/audio/0.7-0.8_Sicilienne.wav
+lists/audio/0.7-0.8_Still Crazy After All These Years.wav
+lists/audio/0.7-0.8_Mind Games (Album Version).wav
+lists/audio/0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
+lists/audio/0.8-0.9_Sonatine Mouvement de menuet.wav
+lists/audio/0.8-0.9_Shadows Of Time.wav
+lists/audio/0.8-0.9_Piece By Piece.wav
+lists/audio/0.8-0.9_Babys House (Digitally Remastered 90).wav
+lists/audio/0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
+lists/audio/0.9-1.0_The Way We Were.wav
+lists/audio/0.9-1.0_What Am I Here For.wav
+lists/audio/0.9-1.0_Until It's Time For You To Go - Live.wav

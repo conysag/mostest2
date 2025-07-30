@@ -1,40 +1,40 @@
-0.0-0.1_When A Man Loves A Woman (LP Version).wav
-0.0-0.1_Adagio in G minor.wav
-0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
-0.0-0.1_MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--4.wav
-0.1-0.2_Ragazzo Fortunato.wav
-0.1-0.2_Quizas Mañana.wav
-0.1-0.2_Georgia on My Mind.wav
-0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
-0.2-0.3_The Long And Winding Road.wav
-0.2-0.3_Deep River Woman.wav
-0.2-0.3_There Goes My Baby.wav
-0.2-0.3_The Last Farewell.wav
-0.3-0.4_Let It Be.wav
-0.3-0.4_Round Midnight.wav
-0.3-0.4_Doctor Wu.wav
-0.3-0.4_Professional Widow (LP Version).wav
-0.4-0.5_Allemande (by JS Bach).wav
-0.4-0.5_Every Time You Lie.wav
-0.4-0.5_All The Things You Are.wav
-0.4-0.5_ToscaVissi darte.wav
-0.5-0.6_Interlude 1.wav
-0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
-0.5-0.6_Something to Remind You  - Album Version.wav
-0.5-0.6_Woman In Love.wav
-0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
-0.6-0.7_Rook (2001 Digital Remaster).wav
-0.6-0.7_Introspection.wav
-0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
-0.7-0.8_Mind Games (Album Version).wav
-0.7-0.8_The Frail.wav
-0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
-0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
-0.8-0.9_Rays Blues.wav
-0.8-0.9_Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.wav
-0.8-0.9_2-minute Study in E.wav
-0.8-0.9_All At Once.wav
-0.9-1.0_Come Sunday.wav
-0.9-1.0_All The Things You Are (Reprise) - Live.wav
-0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
-0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
+lists/audio/0.0-0.1_When A Man Loves A Woman (LP Version).wav
+lists/audio/0.0-0.1_Adagio in G minor.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--4.wav
+lists/audio/0.1-0.2_Ragazzo Fortunato.wav
+lists/audio/0.1-0.2_Quizas Mañana.wav
+lists/audio/0.1-0.2_Georgia on My Mind.wav
+lists/audio/0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
+lists/audio/0.2-0.3_The Long And Winding Road.wav
+lists/audio/0.2-0.3_Deep River Woman.wav
+lists/audio/0.2-0.3_There Goes My Baby.wav
+lists/audio/0.2-0.3_The Last Farewell.wav
+lists/audio/0.3-0.4_Let It Be.wav
+lists/audio/0.3-0.4_Round Midnight.wav
+lists/audio/0.3-0.4_Doctor Wu.wav
+lists/audio/0.3-0.4_Professional Widow (LP Version).wav
+lists/audio/0.4-0.5_Allemande (by JS Bach).wav
+lists/audio/0.4-0.5_Every Time You Lie.wav
+lists/audio/0.4-0.5_All The Things You Are.wav
+lists/audio/0.4-0.5_ToscaVissi darte.wav
+lists/audio/0.5-0.6_Interlude 1.wav
+lists/audio/0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
+lists/audio/0.5-0.6_Something to Remind You  - Album Version.wav
+lists/audio/0.5-0.6_Woman In Love.wav
+lists/audio/0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
+lists/audio/0.6-0.7_Rook (2001 Digital Remaster).wav
+lists/audio/0.6-0.7_Introspection.wav
+lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+lists/audio/0.7-0.8_Mind Games (Album Version).wav
+lists/audio/0.7-0.8_The Frail.wav
+lists/audio/0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
+lists/audio/0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
+lists/audio/0.8-0.9_Rays Blues.wav
+lists/audio/0.8-0.9_Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.wav
+lists/audio/0.8-0.9_2-minute Study in E.wav
+lists/audio/0.8-0.9_All At Once.wav
+lists/audio/0.9-1.0_Come Sunday.wav
+lists/audio/0.9-1.0_All The Things You Are (Reprise) - Live.wav
+lists/audio/0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
+lists/audio/0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav

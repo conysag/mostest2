@@ -1,40 +1,40 @@
-0.0-0.1_The Roof.wav
-0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
-0.0-0.1_When A Man Loves A Woman (LP Version).wav
-0.0-0.1_210.wav
-0.1-0.2_Ragazzo Fortunato.wav
-0.1-0.2_Late Summer Fields (ft Alucard).wav
-0.1-0.2_Girl Live LP Version.wav
-0.1-0.2_You Needed Me.wav
-0.2-0.3_Temporary (Album Version).wav
-0.2-0.3_Unbreakable.wav
-0.2-0.3_The Last Farewell.wav
-0.2-0.3_Deep River Woman.wav
-0.3-0.4_Let It Be.wav
-0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
-0.3-0.4_As Long As She Loves Me.wav
-0.3-0.4_Canada.wav
-0.4-0.5_Stella By Starlight.wav
-0.4-0.5_Allemande (by JS Bach).wav
-0.4-0.5_Song For The Dumped.wav
-0.4-0.5_I Could Not Ask For More (LP Version).wav
-0.5-0.6_Since We Met.wav
-0.5-0.6_Woman In Love.wav
-0.5-0.6_Have Yourself A Meery Little Christmas.wav
-0.5-0.6_Ill Be Home For Christmas.wav
-0.6-0.7_Joy.wav
-0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
-0.6-0.7_A Secret Love.wav
-0.6-0.7_Rook (2001 Digital Remaster).wav
-0.7-0.8_The Frail.wav
-0.7-0.8_Until Its Time For Me To Go.wav
-0.7-0.8_Still Crazy After All These Years.wav
-0.7-0.8_Red Red Wine.wav
-0.8-0.9_Attention.wav
-0.8-0.9_Sonatine Mouvement de menuet.wav
-0.8-0.9_My Song (Album Version).wav
-0.8-0.9_Rays Blues.wav
-0.9-1.0_Until It's Time For You To Go - Live.wav
-0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
-0.9-1.0_Cottage For Sale.wav
-0.9-1.0_The Way We Were.wav
+lists/audio/0.0-0.1_The Roof.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
+lists/audio/0.0-0.1_When A Man Loves A Woman (LP Version).wav
+lists/audio/0.0-0.1_210.wav
+lists/audio/0.1-0.2_Ragazzo Fortunato.wav
+lists/audio/0.1-0.2_Late Summer Fields (ft Alucard).wav
+lists/audio/0.1-0.2_Girl Live LP Version.wav
+lists/audio/0.1-0.2_You Needed Me.wav
+lists/audio/0.2-0.3_Temporary (Album Version).wav
+lists/audio/0.2-0.3_Unbreakable.wav
+lists/audio/0.2-0.3_The Last Farewell.wav
+lists/audio/0.2-0.3_Deep River Woman.wav
+lists/audio/0.3-0.4_Let It Be.wav
+lists/audio/0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
+lists/audio/0.3-0.4_As Long As She Loves Me.wav
+lists/audio/0.3-0.4_Canada.wav
+lists/audio/0.4-0.5_Stella By Starlight.wav
+lists/audio/0.4-0.5_Allemande (by JS Bach).wav
+lists/audio/0.4-0.5_Song For The Dumped.wav
+lists/audio/0.4-0.5_I Could Not Ask For More (LP Version).wav
+lists/audio/0.5-0.6_Since We Met.wav
+lists/audio/0.5-0.6_Woman In Love.wav
+lists/audio/0.5-0.6_Have Yourself A Meery Little Christmas.wav
+lists/audio/0.5-0.6_Ill Be Home For Christmas.wav
+lists/audio/0.6-0.7_Joy.wav
+lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+lists/audio/0.6-0.7_A Secret Love.wav
+lists/audio/0.6-0.7_Rook (2001 Digital Remaster).wav
+lists/audio/0.7-0.8_The Frail.wav
+lists/audio/0.7-0.8_Until Its Time For Me To Go.wav
+lists/audio/0.7-0.8_Still Crazy After All These Years.wav
+lists/audio/0.7-0.8_Red Red Wine.wav
+lists/audio/0.8-0.9_Attention.wav
+lists/audio/0.8-0.9_Sonatine Mouvement de menuet.wav
+lists/audio/0.8-0.9_My Song (Album Version).wav
+lists/audio/0.8-0.9_Rays Blues.wav
+lists/audio/0.9-1.0_Until It's Time For You To Go - Live.wav
+lists/audio/0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
+lists/audio/0.9-1.0_Cottage For Sale.wav
+lists/audio/0.9-1.0_The Way We Were.wav

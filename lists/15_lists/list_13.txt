@@ -1,40 +1,40 @@
-0.0-0.1_MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--4.wav
-0.0-0.1_Something About The Way You Look Tonight.wav
-0.0-0.1_Going To A Town.wav
-0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
-0.1-0.2_Georgia on My Mind.wav
-0.1-0.2_Cosas Del Amor.wav
-0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
-0.1-0.2_You Needed Me.wav
-0.2-0.3_There Goes My Baby.wav
-0.2-0.3_Sinkin Soon (iTunes Live Session).wav
-0.2-0.3_Outro.wav
-0.2-0.3_Unbreakable.wav
-0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
-0.3-0.4_Canada.wav
-0.3-0.4_Round Midnight.wav
-0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
-0.4-0.5_The Crave.wav
-0.4-0.5_Lady Love.wav
-0.4-0.5_Georgia On My Mind.wav
-0.4-0.5_Far More (Album Version).wav
-0.5-0.6_Straight From The Heart.wav
-0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
-0.5-0.6_Have Yourself A Meery Little Christmas.wav
-0.5-0.6_Something to Remind You  - Album Version.wav
-0.6-0.7_Over My Head.wav
-0.6-0.7_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.wav
-0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
-0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
-0.7-0.8_Never Gonna Let You Down.wav
-0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
-0.7-0.8_She Loves You (As made famous by The Beatles).wav
-0.7-0.8_Sicilienne.wav
-0.8-0.9_My Baby Just Cares For Me.wav
-0.8-0.9_Sonatine Mouvement de menuet.wav
-0.8-0.9_My Song (Album Version).wav
-0.8-0.9_Attention.wav
-0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
-0.9-1.0_The Way We Were.wav
-0.9-1.0_What Am I Here For.wav
-0.9-1.0_Willie The Weeper.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--4.wav
+lists/audio/0.0-0.1_Something About The Way You Look Tonight.wav
+lists/audio/0.0-0.1_Going To A Town.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
+lists/audio/0.1-0.2_Georgia on My Mind.wav
+lists/audio/0.1-0.2_Cosas Del Amor.wav
+lists/audio/0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
+lists/audio/0.1-0.2_You Needed Me.wav
+lists/audio/0.2-0.3_There Goes My Baby.wav
+lists/audio/0.2-0.3_Sinkin Soon (iTunes Live Session).wav
+lists/audio/0.2-0.3_Outro.wav
+lists/audio/0.2-0.3_Unbreakable.wav
+lists/audio/0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
+lists/audio/0.3-0.4_Canada.wav
+lists/audio/0.3-0.4_Round Midnight.wav
+lists/audio/0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
+lists/audio/0.4-0.5_The Crave.wav
+lists/audio/0.4-0.5_Lady Love.wav
+lists/audio/0.4-0.5_Georgia On My Mind.wav
+lists/audio/0.4-0.5_Far More (Album Version).wav
+lists/audio/0.5-0.6_Straight From The Heart.wav
+lists/audio/0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
+lists/audio/0.5-0.6_Have Yourself A Meery Little Christmas.wav
+lists/audio/0.5-0.6_Something to Remind You  - Album Version.wav
+lists/audio/0.6-0.7_Over My Head.wav
+lists/audio/0.6-0.7_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.wav
+lists/audio/0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
+lists/audio/0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
+lists/audio/0.7-0.8_Never Gonna Let You Down.wav
+lists/audio/0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
+lists/audio/0.7-0.8_She Loves You (As made famous by The Beatles).wav
+lists/audio/0.7-0.8_Sicilienne.wav
+lists/audio/0.8-0.9_My Baby Just Cares For Me.wav
+lists/audio/0.8-0.9_Sonatine Mouvement de menuet.wav
+lists/audio/0.8-0.9_My Song (Album Version).wav
+lists/audio/0.8-0.9_Attention.wav
+lists/audio/0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
+lists/audio/0.9-1.0_The Way We Were.wav
+lists/audio/0.9-1.0_What Am I Here For.wav
+lists/audio/0.9-1.0_Willie The Weeper.wav
