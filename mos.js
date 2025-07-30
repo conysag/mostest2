@@ -207,9 +207,9 @@ function evaluation() {
 function exportCSV() {
     var csvData = "File,Score,Elements\n";
     for (var i = 0; i < file_list.length; i++) {
-        csvData += "" + file_list[i] + ","
+        csvData += "\"" + file_list[i] + "\","
             + scores[i] + ","
-            + elements[i] + "\r\n";
+            + "\"" + elements[i] + "\"\r\n";
     }
     
     // Add final comment as a separate section
