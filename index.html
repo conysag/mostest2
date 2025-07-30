@@ -14,92 +14,80 @@
         <p>
         <h1>Jazz elements evaluation test</h1>
 
-        <h2>Experimental Procedure</h2>
-        <ol>
-            <li>Enter your name and select the set list number (choose any number you like).</li>
-            <li>Press "Start Experiment" button.</li>
-            <li>Listen to the music samples and rate the <b>jazz elements</b>.</li>
-            <li>Press "next" button and start next evaluation.</li>
-            <li>When you finish this experiment, press "finish" button and download the result.<br>
-                Send it to Minseok Kim on slack or the following email address.</li>
-            <li>Email address: kim.minseok@g.sp.m.is.nagoya-u.ac.jp</font>
-            </li>
-        </ol>
-
-        <h2>Notes</h2>
-        <ul>
-            <li>This experiment takes no more than 10 minutes.</li>
-            <li>Please do not update the page during this experiment.</li>
-            <li>You may not be able to download the results on your phone, so please use your PC.</li>
-            <li>Please use headphones for this experiment.</li>
-        </ul>
-
-        <!-- 평가 예시 이미지 추가 -->
-        <div style="margin: 30px 0; padding: 10px; border: 1px solid #ccc; background: #f9f9f9;">
+        <!-- 첫 화면: 평가 예시 페이지 -->
+        <div id="Display0" style="display:block;">
             <h2>Evaluation Examples / 評価例</h2>
-            <div style="margin-bottom: 20px;">
-                <img src="fig/ex1.png" alt="Example 1" style="max-width: 400px; display: block; margin-bottom: 5px;">
-                <div style="font-size: 0.95em; color: #333;">아래 이미지는 예시입니다. 영문 성과 주어진 리스트의 번호를 답하시오.<br>Below is an example. Please answer with the English result and the given list number.</div>
+            <div style="margin: 30px 0; padding: 10px; border: 1px solid #ccc; background: #f9f9f9;">
+                <div style="margin-bottom: 20px;">
+                    <img src="fig/ex1.png" alt="Example 1" style="max-width: 400px; display: block; margin-bottom: 5px;">
+                    <div style="font-size: 0.95em; color: #333;">아래 이미지는 예시입니다. 영문 성과 주어진 리스트의 번호를 답하시오。<br>Below is an example. Please answer with the English result and the given list number.</div>
+                </div>
+                <div style="margin-bottom: 20px;">
+                    <img src="fig/ex2.png" alt="Example 2" style="max-width: 400px; display: block; margin-bottom: 5px;">
+                    <div style="font-size: 0.95em; color: #333;">아래는 평가 예시입니다。참고해서 평가해 주세요。<br>This is an evaluation example. Please refer to it when evaluating.</div>
+                </div>
+                <div style="margin-bottom: 10px;">
+                    <img src="fig/ex3.png" alt="Example 3" style="max-width: 400px; display: block; margin-bottom: 5px;">
+                    <div style="font-size: 0.95em; color: #333;">아래는 평가 예시입니다。참고해서 평가해 주세요。<br>This is an evaluation example. Please refer to it when evaluating.</div>
+                </div>
             </div>
-            <div style="margin-bottom: 20px;">
-                <img src="fig/ex2.png" alt="Example 2" style="max-width: 400px; display: block; margin-bottom: 5px;">
-                <div style="font-size: 0.95em; color: #333;">아래는 평가 예시입니다. 참고해서 평가해 주세요.<br>This is an evaluation example. Please refer to it when evaluating.</div>
-            </div>
-            <div style="margin-bottom: 10px;">
-                <img src="fig/ex3.png" alt="Example 3" style="max-width: 400px; display: block; margin-bottom: 5px;">
-                <div style="font-size: 0.95em; color: #333;">아래는 평가 예시입니다. 참고해서 평가해 주세요.<br>This is an evaluation example. Please refer to it when evaluating.</div>
-            </div>
+            <button onclick="showExperimentInfo()">다음 / Next</button>
         </div>
 
-        <!-- <h2>実験手順</h2>
-        <ol>
-            <li>名前を入力し、1から10までのセット番号を選んで下さい。</li>
-            <li>"Start Experiment"を押して下さい。</li>
-            <li>音声を聴き、相応しいと思った評価を選択して下さい。<br>
-                評価基準は<b>音質</b>です。</li>
-            <li>選択を終えたら"next"ボタンを押し、次の実験に進んで下さい。</li>
-            <li>評価実験を全て終えたら"finish"ボタンを押して結果をダウンロードして下さい。<br>
-                結果はSlackか下記のメールアドレスに送信して下さい。</li>
-            <li>Emailアドレス: authors_email@address</font>
-            </li>
-        </ol>
+        <!-- 두 번째 화면: 실험 정보 및 시작 -->
+        <div id="Display1" style="display:none;">
+            <h2>Experimental Procedure</h2>
+            <ol>
+                <li>Enter your name and select the set list number (choose any number you like).</li>
+                <li>Press "Start Experiment" button.</li>
+                <li>Listen to the music samples and rate the <b>jazz elements</b>.</li>
+                <li>Press "next" button and start next evaluation.</li>
+                <li>When you finish this experiment, press "finish" button and download the result.<br>
+                    Send it to Minseok Kim on slack or the following email address.</li>
+                <li>Email address: kim.minseok@g.sp.m.is.nagoya-u.ac.jp</font>
+                </li>
+            </ol>
 
-        <h2>注意</h2>
-        <ul>
-            <li>この実験は凡そ30分ほど要します。</li>
-            <li>実験中はページの再読み込みは行わないで下さい。</li>
-            <li>スマートフォンでは結果をダウンロードできない場合があるのでPCを使用して下さい。</li>
-            <li>ヘッドホンやイヤホンを着用した状態で行って下さい。</li>
-        </ul> -->
-        </p>
-    </div>
+            <h2>Notes</h2>
+            <ul>
+                <li>This experiment takes no more than 10 minutes.</li>
+                <li>Please do not update the page during this experiment.</li>
+                <li>You may not be able to download the results on your phone, so please use your PC.</li>
+                <li>Please use headphones for this experiment.</li>
+            </ul>
 
-    <script type="text/javascript" src="mos.js"></script>
+            <!-- <h2>実験手順</h2>
+            <ol>
+                <li>名前とセットリスト番号を入力してください（番号は好きなものを選んでください）。</li>
+                <li>「実験開始」ボタンを押してください。</li>
+                <li>音楽サンプルを聴いて、<b>ジャズ的要素</b>を評価してください。</li>
+                <li>「next」ボタンを押して次の評価を開始してください。</li>
+                <li>この実験が終わったら、「finish」ボタンを押して結果をダウンロードしてください。<br>
+                    slackのMinseok Kimまたは以下のメールアドレスに送信してください。</li>
+                <li>メールアドレス: kim.minseok@g.sp.m.is.nagoya-u.ac.jp</font>
+                </li>
+            </ol>
 
-    <div id="Display1">
-        <p> Your name: <br>
-            <input type="text" id="name" value="">
-        </p>
-        <p> Setlist number: <br>
-            <label><input type="radio" name="set" id="number" value="1">1</label><br>
-            <label><input type="radio" name="set" id="number" value="2">2</label><br>
-            <label><input type="radio" name="set" id="number" value="3">3</label><br>
-            <label><input type="radio" name="set" id="number" value="4">4</label><br>
-            <label><input type="radio" name="set" id="number" value="5">5</label><br>
-            <label><input type="radio" name="set" id="number" value="6">6</label><br>
-            <label><input type="radio" name="set" id="number" value="7">7</label><br>
-            <label><input type="radio" name="set" id="number" value="8">8</label><br>
-            <label><input type="radio" name="set" id="number" value="9">9</label><br>
-            <label><input type="radio" name="set" id="number" value="10">10</label><br>
-            <label><input type="radio" name="set" id="number" value="11">11</label><br>
-            <label><input type="radio" name="set" id="number" value="12">12</label><br>
-            <label><input type="radio" name="set" id="number" value="13">13</label><br>
-            <label><input type="radio" name="set" id="number" value="14">14</label><br>
-            <label><input type="radio" name="set" id="number" value="15">15</label><br>
-        <p>
-            <button id="next1" onclick="start_experiment()">next</button>
-        </p>
-    </div>
+            <h2>注意事項</h2>
+            <ul>
+                <li>この実験は10分以内で終了します。</li>
+                <li>実験中はページを更新しないでください。</li>
+                <li>スマートフォンでは結果をダウンロードできない場合がありますので、PCを使用してください。</li>
+                <li>この実験ではヘッドフォンを使用してください。</li>
+            </ul> -->
+
+            <p>
+                <label for="name">Name / 名前:</label><br>
+                <input type="text" id="name" name="name" onkeypress="return invalid_enter()"><br>
+            </p>
+            <p>
+                <label for="set_num">Set list number / セットリスト番号:</label><br>
+                <input type="number" id="set_num" name="set_num" min="1" max="15" onkeypress="return invalid_enter()"><br>
+            </p>
+            <p>
+                <button onclick="start_experiment()">Start Experiment / 実験開始</button>
+            </p>
+        </div>
 
 
     <div id="Display2" style="display:none;">

@@ -26,15 +26,9 @@ function start_experiment() {
     }
 
     // get setlist number
-    var set_num = "0"
-    var number = document.getElementsByName("set");
-    for (var i = 0; i < number.length; i++) {
-        if (number[i].checked) {
-            set_num = number[i].value;
-        }
-    }
-    if (set_num == "0") {
-        alert("Please press the setlist number button.");
+    var set_num = document.getElementById("set_num").value;
+    if (set_num == "" || set_num < 1 || set_num > 15) {
+        alert("Please enter a valid setlist number (1-15).");
         return false;
     }
 
@@ -270,6 +264,11 @@ function finish() {
     exportCSV();
 }
 
+function showExperimentInfo() {
+    // 첫 화면(평가 예시)을 숨기고 두 번째 화면(실험 정보)을 표시
+    document.getElementById("Display0").style.display = "none";
+    document.getElementById("Display1").style.display = "block";
+}
 
 // directory name
 const wav_dir = "wav/";
