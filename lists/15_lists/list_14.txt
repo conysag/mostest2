@@ -1,40 +1,41 @@
-lists/audio/0.0-0.1_Just Because.wav
-lists/audio/0.0-0.1_Con Te Partirò.wav
-lists/audio/0.0-0.1_Here Comes My Baby.wav
-lists/audio/0.0-0.1_210.wav
-lists/audio/0.1-0.2_You Needed Me.wav
-lists/audio/0.1-0.2_Whats Your Name.wav
-lists/audio/0.1-0.2_One for You_ One for Me.wav
-lists/audio/0.1-0.2_Cosas Del Amor.wav
-lists/audio/0.2-0.3_Deep River Woman.wav
-lists/audio/0.2-0.3_The Long And Winding Road.wav
-lists/audio/0.2-0.3_You Know Me.wav
-lists/audio/0.2-0.3_The Long And Winding Road.wav
-lists/audio/0.3-0.4_Doctor Wu.wav
-lists/audio/0.3-0.4_Au fond du temple saint.wav
-lists/audio/0.3-0.4_How Do You Keep the Music Playing.wav
-lists/audio/0.3-0.4_How Do You Keep the Music Playing.wav
-lists/audio/0.4-0.5_Dont Leave Me Now (Live).wav
-lists/audio/0.4-0.5_Allemande (by JS Bach).wav
-lists/audio/0.4-0.5_Stella By Starlight.wav
-lists/audio/0.4-0.5_ToscaVissi darte.wav
-lists/audio/0.5-0.6_Something to Remind You  - Album Version.wav
-lists/audio/0.5-0.6_Since We Met.wav
-lists/audio/0.5-0.6_Something to Remind You  - Album Version.wav
-lists/audio/0.5-0.6_Killing Me Softly.wav
-lists/audio/0.6-0.7_Introspection.wav
-lists/audio/0.6-0.7_Music Box.wav
-lists/audio/0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
-lists/audio/0.6-0.7_Music Box.wav
-lists/audio/0.7-0.8_Blue Eyes.wav
-lists/audio/0.7-0.8_Blue Eyes.wav
-lists/audio/0.7-0.8_Mind Games (Album Version).wav
-lists/audio/0.7-0.8_First Call.wav
-lists/audio/0.8-0.9_2-minute Study in E.wav
-lists/audio/0.8-0.9_2-minute Study in E.wav
-lists/audio/0.8-0.9_Sonatine Mouvement de menuet.wav
-lists/audio/0.8-0.9_Attention.wav
-lists/audio/0.9-1.0_What Am I Here For.wav
-lists/audio/0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
-lists/audio/0.9-1.0_Cottage For Sale.wav
-lists/audio/0.9-1.0_Willie The Weeper.wav
+상대경로
+0.0-0.1_Adagio in G minor.wav
+0.0-0.1_The Roof.wav
+0.0-0.1_Here Comes My Baby.wav
+0.0-0.1_Just Because.wav
+0.1-0.2_Quizas Mañana.wav
+0.1-0.2_Whats Your Name.wav
+0.1-0.2_Any Day Now.wav
+0.1-0.2_Late Summer Fields (ft Alucard).wav
+0.2-0.3_Temporary (Album Version).wav
+0.2-0.3_Someday My Prince Will Come.wav
+0.2-0.3_The Long And Winding Road.wav
+0.2-0.3_The Alaskan Rag.wav
+0.3-0.4_Au fond du temple saint.wav
+0.3-0.4_How Do You Keep the Music Playing.wav
+0.3-0.4_Doctor Wu.wav
+0.3-0.4_All By Myself.wav
+0.4-0.5_Stella By Starlight.wav
+0.4-0.5_Song For The Dumped.wav
+0.4-0.5_Every Time You Lie.wav
+0.4-0.5_I Could Not Ask For More (LP Version).wav
+0.5-0.6_Ill Be Home For Christmas.wav
+0.5-0.6_Smile.wav
+0.5-0.6_Tea For Two.wav
+0.5-0.6_Interlude 1.wav
+0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+0.6-0.7_Rook (2001 Digital Remaster).wav
+0.6-0.7_Chega de Saudade.wav
+0.6-0.7_Music Box.wav
+0.7-0.8_Until Its Time For Me To Go.wav
+0.7-0.8_The Frail.wav
+0.7-0.8_Still Crazy After All These Years.wav
+0.7-0.8_First Call.wav
+0.8-0.9_Babys House (Digitally Remastered 90).wav
+0.8-0.9_Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.wav
+0.8-0.9_For Once In My Life (Album Version).wav
+0.8-0.9_Shadows Of Time.wav
+0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
+0.9-1.0_Come Sunday.wav
+0.9-1.0_Cottage For Sale.wav
+0.9-1.0_Until It's Time For You To Go - Live.wav

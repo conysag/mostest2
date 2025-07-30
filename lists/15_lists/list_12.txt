@@ -1,40 +1,41 @@
-lists/audio/0.0-0.1_The Roof.wav
-lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
-lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
-lists/audio/0.0-0.1_Something About The Way You Look Tonight.wav
-lists/audio/0.1-0.2_Any Day Now.wav
-lists/audio/0.1-0.2_Whats Your Name.wav
-lists/audio/0.1-0.2_Georgia on My Mind.wav
-lists/audio/0.1-0.2_Whats Your Name.wav
-lists/audio/0.2-0.3_Outro.wav
-lists/audio/0.2-0.3_Unbreakable.wav
-lists/audio/0.2-0.3_The Long And Winding Road.wav
-lists/audio/0.2-0.3_The Last Farewell.wav
-lists/audio/0.3-0.4_Let It Be.wav
-lists/audio/0.3-0.4_Doctor Wu.wav
-lists/audio/0.3-0.4_Doctor Wu.wav
-lists/audio/0.3-0.4_How Do You Keep the Music Playing.wav
-lists/audio/0.4-0.5_Song For The Dumped.wav
-lists/audio/0.4-0.5_Dont Leave Me Now (Live).wav
-lists/audio/0.4-0.5_ToscaVissi darte.wav
-lists/audio/0.4-0.5_All The Things You Are.wav
-lists/audio/0.5-0.6_Woman In Love.wav
-lists/audio/0.5-0.6_Smile.wav
-lists/audio/0.5-0.6_Kismet Rag.wav
-lists/audio/0.5-0.6_Something to Remind You  - Album Version.wav
-lists/audio/0.6-0.7_Chega de Saudade.wav
-lists/audio/0.6-0.7_Joy.wav
-lists/audio/0.6-0.7_Youre My 1.wav
-lists/audio/0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
-lists/audio/0.7-0.8_The Frail.wav
-lists/audio/0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
-lists/audio/0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
-lists/audio/0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
-lists/audio/0.8-0.9_My Song (Album Version).wav
-lists/audio/0.8-0.9_2-minute Study in E.wav
-lists/audio/0.8-0.9_All At Once.wav
-lists/audio/0.8-0.9_All At Once.wav
-lists/audio/0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
-lists/audio/0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
-lists/audio/0.9-1.0_All The Things You Are (Reprise) - Live.wav
-lists/audio/0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
+상대경로
+0.0-0.1_Here Comes My Baby.wav
+0.0-0.1_The Roof.wav
+0.0-0.1_Going To A Town.wav
+0.0-0.1_Something About The Way You Look Tonight.wav
+0.1-0.2_Cosas Del Amor.wav
+0.1-0.2_Girl Live LP Version.wav
+0.1-0.2_Whats Your Name.wav
+0.1-0.2_You Needed Me.wav
+0.2-0.3_Ruegame.wav
+0.2-0.3_The Alaskan Rag.wav
+0.2-0.3_Outro.wav
+0.2-0.3_Temporary (Album Version).wav
+0.3-0.4_Canada.wav
+0.3-0.4_As Long As She Loves Me.wav
+0.3-0.4_How Do You Keep the Music Playing.wav
+0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
+0.4-0.5_Lady Love.wav
+0.4-0.5_Song For The Dumped.wav
+0.4-0.5_I Could Not Ask For More (LP Version).wav
+0.4-0.5_The Crave.wav
+0.5-0.6_Smile.wav
+0.5-0.6_Ill Be Home For Christmas.wav
+0.5-0.6_Killing Me Softly.wav
+0.5-0.6_Since We Met.wav
+0.6-0.7_Over My Head.wav
+0.6-0.7_Joy.wav
+0.6-0.7_Chega de Saudade.wav
+0.6-0.7_Music Box.wav
+0.7-0.8_Red Red Wine.wav
+0.7-0.8_She Loves You (As made famous by The Beatles).wav
+0.7-0.8_Blue Eyes.wav
+0.7-0.8_First Call.wav
+0.8-0.9_Sonatine Mouvement de menuet.wav
+0.8-0.9_Babys House (Digitally Remastered 90).wav
+0.8-0.9_Shadows Of Time.wav
+0.8-0.9_My Song (Album Version).wav
+0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
+0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
+0.9-1.0_Willie The Weeper.wav
+0.9-1.0_Cottage For Sale.wav

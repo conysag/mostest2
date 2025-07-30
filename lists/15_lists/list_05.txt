@@ -1,40 +1,41 @@
-lists/audio/0.0-0.1_Suleika 2.wav
-lists/audio/0.0-0.1_Adagio in G minor.wav
-lists/audio/0.0-0.1_Just Because.wav
-lists/audio/0.0-0.1_When A Man Loves A Woman (LP Version).wav
-lists/audio/0.1-0.2_You Needed Me.wav
-lists/audio/0.1-0.2_Whats Your Name.wav
-lists/audio/0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
-lists/audio/0.1-0.2_Girl Live LP Version.wav
-lists/audio/0.2-0.3_The Alaskan Rag.wav
-lists/audio/0.2-0.3_Sinkin Soon (iTunes Live Session).wav
-lists/audio/0.2-0.3_Outro.wav
-lists/audio/0.2-0.3_The Long And Winding Road.wav
-lists/audio/0.3-0.4_Let It Be.wav
-lists/audio/0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
-lists/audio/0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
-lists/audio/0.3-0.4_Round Midnight.wav
-lists/audio/0.4-0.5_Far More (Album Version).wav
-lists/audio/0.4-0.5_I Could Not Ask For More (LP Version).wav
-lists/audio/0.4-0.5_Stella By Starlight.wav
-lists/audio/0.4-0.5_Song For The Dumped.wav
-lists/audio/0.5-0.6_Woman In Love.wav
-lists/audio/0.5-0.6_Interlude 1.wav
-lists/audio/0.5-0.6_Killing Me Softly.wav
-lists/audio/0.5-0.6_Interlude 1.wav
-lists/audio/0.6-0.7_Music Box.wav
-lists/audio/0.6-0.7_A Secret Love.wav
-lists/audio/0.6-0.7_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.wav
-lists/audio/0.6-0.7_Joy.wav
-lists/audio/0.7-0.8_Red Red Wine.wav
-lists/audio/0.7-0.8_Never Gonna Let You Down.wav
-lists/audio/0.7-0.8_Blue Eyes.wav
-lists/audio/0.7-0.8_Until Its Time For Me To Go.wav
-lists/audio/0.8-0.9_Piece By Piece.wav
-lists/audio/0.8-0.9_Sonatine Mouvement de menuet.wav
-lists/audio/0.8-0.9_Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.wav
-lists/audio/0.8-0.9_My Baby Just Cares For Me.wav
-lists/audio/0.9-1.0_Willie The Weeper.wav
-lists/audio/0.9-1.0_What Am I Here For.wav
-lists/audio/0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
-lists/audio/0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
+상대경로
+0.0-0.1_Con Te Partirò.wav
+0.0-0.1_The Roof.wav
+0.0-0.1_Just Because.wav
+0.0-0.1_Here Comes My Baby.wav
+0.1-0.2_Ragazzo Fortunato.wav
+0.1-0.2_Girl Live LP Version.wav
+0.1-0.2_Georgia on My Mind.wav
+0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
+0.2-0.3_The Last Farewell.wav
+0.2-0.3_There Goes My Baby.wav
+0.2-0.3_You Know Me.wav
+0.2-0.3_Deep River Woman.wav
+0.3-0.4_Au fond du temple saint.wav
+0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
+0.3-0.4_All By Myself.wav
+0.3-0.4_Doctor Wu.wav
+0.4-0.5_Allemande (by JS Bach).wav
+0.4-0.5_Stella By Starlight.wav
+0.4-0.5_Dont Leave Me Now (Live).wav
+0.4-0.5_Georgia On My Mind.wav
+0.5-0.6_Ill Be Home For Christmas.wav
+0.5-0.6_Tea For Two.wav
+0.5-0.6_Interlude 1.wav
+0.5-0.6_Killing Me Softly.wav
+0.6-0.7_A Secret Love.wav
+0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
+0.6-0.7_Youre My 1.wav
+0.6-0.7_Chega de Saudade.wav
+0.7-0.8_First Call.wav
+0.7-0.8_Never Gonna Let You Down.wav
+0.7-0.8_Sicilienne.wav
+0.7-0.8_Blue Eyes.wav
+0.8-0.9_Attention.wav
+0.8-0.9_My Baby Just Cares For Me.wav
+0.8-0.9_Shadows Of Time.wav
+0.8-0.9_All At Once.wav
+0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
+0.9-1.0_Until It's Time For You To Go - Live.wav
+0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
+0.9-1.0_All The Things You Are (Reprise) - Live.wav

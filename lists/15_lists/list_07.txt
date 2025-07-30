@@ -1,40 +1,41 @@
-lists/audio/0.0-0.1_210.wav
-lists/audio/0.0-0.1_When A Man Loves A Woman (LP Version).wav
-lists/audio/0.0-0.1_210.wav
-lists/audio/0.0-0.1_Adagio in G minor.wav
-lists/audio/0.1-0.2_Piano Sonata No 14 in C sharp minor Moonlight Op 27 No 2 I   Adagio sostenuto.wav
-lists/audio/0.1-0.2_One for You_ One for Me.wav
-lists/audio/0.1-0.2_Late Summer Fields (ft Alucard).wav
-lists/audio/0.1-0.2_Any Day Now.wav
-lists/audio/0.2-0.3_Deep River Woman.wav
-lists/audio/0.2-0.3_You Know Me.wav
-lists/audio/0.2-0.3_Temporary (Album Version).wav
-lists/audio/0.2-0.3_Sinkin Soon (iTunes Live Session).wav
-lists/audio/0.3-0.4_Canada.wav
-lists/audio/0.3-0.4_Let It Be.wav
-lists/audio/0.3-0.4_All By Myself.wav
-lists/audio/0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
-lists/audio/0.4-0.5_All The Things You Are.wav
-lists/audio/0.4-0.5_Every Time You Lie.wav
-lists/audio/0.4-0.5_I Could Not Ask For More (LP Version).wav
-lists/audio/0.4-0.5_Lady Love.wav
-lists/audio/0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
-lists/audio/0.5-0.6_Smile.wav
-lists/audio/0.5-0.6_Kismet Rag.wav
-lists/audio/0.5-0.6_Have Yourself A Meery Little Christmas.wav
-lists/audio/0.6-0.7_Rook (2001 Digital Remaster).wav
-lists/audio/0.6-0.7_Youre My 1.wav
-lists/audio/0.6-0.7_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.wav
-lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
-lists/audio/0.7-0.8_She Loves You (As made famous by The Beatles).wav
-lists/audio/0.7-0.8_Sicilienne.wav
-lists/audio/0.7-0.8_Red Red Wine.wav
-lists/audio/0.7-0.8_Sicilienne.wav
-lists/audio/0.8-0.9_Babys House (Digitally Remastered 90).wav
-lists/audio/0.8-0.9_Rays Blues.wav
-lists/audio/0.8-0.9_For Once In My Life (Album Version).wav
-lists/audio/0.8-0.9_For Once In My Life (Album Version).wav
-lists/audio/0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
-lists/audio/0.9-1.0_Cottage For Sale.wav
-lists/audio/0.9-1.0_Cottage For Sale.wav
-lists/audio/0.9-1.0_I Don't Stand A Ghost Of A Chance With You.wav
+상대경로
+0.0-0.1_MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--4.wav
+0.0-0.1_Suleika 2.wav
+0.0-0.1_Going To A Town.wav
+0.0-0.1_Adagio in G minor.wav
+0.1-0.2_Quizas Mañana.wav
+0.1-0.2_Georgia on My Mind.wav
+0.1-0.2_Any Day Now.wav
+0.1-0.2_Walking By Myself (2002 Digital Remaster).wav
+0.2-0.3_Ruegame.wav
+0.2-0.3_Outro.wav
+0.2-0.3_Someday My Prince Will Come.wav
+0.2-0.3_You Know Me.wav
+0.3-0.4_How Do You Keep the Music Playing.wav
+0.3-0.4_The Entertainer.wav
+0.3-0.4_Round Midnight.wav
+0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
+0.4-0.5_Every Time You Lie.wav
+0.4-0.5_The Crave.wav
+0.4-0.5_Far More (Album Version).wav
+0.4-0.5_Georgia On My Mind.wav
+0.5-0.6_Straight From The Heart.wav
+0.5-0.6_Smile.wav
+0.5-0.6_Something to Remind You  - Album Version.wav
+0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
+0.6-0.7_Over My Head.wav
+0.6-0.7_Closest Thing To Heaven (Solasso Dub).wav
+0.6-0.7_Music Box.wav
+0.6-0.7_Youre My 1.wav
+0.7-0.8_Sicilienne.wav
+0.7-0.8_First Call.wav
+0.7-0.8_Blue Eyes.wav
+0.7-0.8_She Loves You (As made famous by The Beatles).wav
+0.8-0.9_All At Once.wav
+0.8-0.9_Shadows Of Time.wav
+0.8-0.9_Piece By Piece.wav
+0.8-0.9_Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.wav
+0.9-1.0_What Am I Here For.wav
+0.9-1.0_A Wonderful Guy.wav
+0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
+0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
