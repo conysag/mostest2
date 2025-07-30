@@ -286,3 +286,8 @@ var finalComment;
 // since loadText() doesn't work in local
 var n = 0;
 var eval = document.getElementsByName("eval");
+function showExperimentInfo() {
+    // 첫 화면(평가 예시)을 숨기고 두 번째 화면(실험 정보)을 표시
+    document.getElementById("Display0").style.display = "none";
+    document.getElementById("Display1").style.display = "block";
+}
