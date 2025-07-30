@@ -1,4 +1,3 @@
-상대경로
 0.0-0.1_Con Te Partirò.wav
 0.0-0.1_Going To A Town.wav
 0.0-0.1_When A Man Loves A Woman (LP Version).wav

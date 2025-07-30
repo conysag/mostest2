@@ -1,4 +1,3 @@
-상대경로
 0.0-0.1_Adagio in G minor.wav
 0.0-0.1_The Roof.wav
 0.0-0.1_Here Comes My Baby.wav
