@@ -1,0 +1,121 @@
+구간,파일명,Jazz확률
+0.0-0.1,Just Because.npy,0.075875
+0.0-0.1,MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.npy,0.003694
+0.0-0.1,MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--4.npy,0.014406
+0.0-0.1,Adagio in G minor.npy,0.084675
+0.0-0.1,Suleika 2.npy,0.005992
+0.0-0.1,Going To A Town.npy,0.054474
+0.0-0.1,Con Te Partirò.npy,0.082606
+0.0-0.1,Here Comes My Baby.npy,0.035355
+0.0-0.1,210.npy,0.040529
+0.0-0.1,The Look.npy,0.095113
+0.0-0.1,Something About The Way You Look Tonight.npy,0.050910
+0.0-0.1,When A Man Loves A Woman (LP Version).npy,0.054145
+0.1-0.2,Georgia on My Mind.npy,0.109241
+0.1-0.2,Piano Sonata No 14 in C sharp minor Moonlight Op 27 No 2 I   Adagio sostenuto.npy,0.158712
+0.1-0.2,One for You_ One for Me.npy,0.138713
+0.1-0.2,Girl Live LP Version.npy,0.127750
+0.1-0.2,Any Day Now.npy,0.122000
+0.1-0.2,Late Summer Fields (ft Alucard).npy,0.127834
+0.1-0.2,Walking By Myself (2002 Digital Remaster).npy,0.159918
+0.1-0.2,Cosas Del Amor.npy,0.118211
+0.1-0.2,Sign Your Name.npy,0.109473
+0.1-0.2,Ragazzo Fortunato.npy,0.183454
+0.1-0.2,Quizas Mañana.npy,0.191963
+0.1-0.2,You Needed Me.npy,0.146266
+0.2-0.3,Someday My Prince Will Come.npy,0.200657
+0.2-0.3,The Alaskan Rag.npy,0.219466
+0.2-0.3,Outro.npy,0.263090
+0.2-0.3,Deep River Woman.npy,0.221545
+0.2-0.3,You Know Me.npy,0.212954
+0.2-0.3,Ruegame.npy,0.216564
+0.2-0.3,Sinkin Soon (iTunes Live Session).npy,0.217656
+0.2-0.3,The Long And Winding Road.npy,0.267253
+0.2-0.3,Unbreakable.npy,0.234252
+0.2-0.3,Temporary (Album Version).npy,0.205185
+0.2-0.3,There Goes My Baby.npy,0.203764
+0.2-0.3,The Last Farewell.npy,0.208941
+0.3-0.4,Round Midnight.npy,0.339643
+0.3-0.4,How Do You Keep the Music Playing.npy,0.372579
+0.3-0.4,Waltz in C sharp minor_ Op 64_ No 2.npy,0.374592
+0.3-0.4,Au fond du temple saint.npy,0.382839
+0.3-0.4,Professional Widow (LP Version).npy,0.386059
+0.3-0.4,Canada.npy,0.371297
+0.3-0.4,Doctor Wu.npy,0.385145
+0.3-0.4,Let It Be.npy,0.319805
+0.3-0.4,The Entertainer.npy,0.324684
+0.3-0.4,As Long As She Loves Me.npy,0.342416
+0.3-0.4,Weve Only Just Begun (Digitally Remastered).npy,0.302274
+0.3-0.4,All By Myself.npy,0.312487
+0.4-0.5,Stella By Starlight.npy,0.472033
+0.4-0.5,Lady Love.npy,0.478985
+0.4-0.5,ToscaVissi darte.npy,0.439014
+0.4-0.5,Far More (Album Version).npy,0.483187
+0.4-0.5,Song For The Dumped.npy,0.470205
+0.4-0.5,Dont Leave Me Now (Live).npy,0.437654
+0.4-0.5,I Could Not Ask For More (LP Version).npy,0.489907
+0.4-0.5,Every Time You Lie.npy,0.481626
+0.4-0.5,Crave.npy,0.433969
+0.4-0.5,Allemande (by JS Bach).npy,0.409003
+0.4-0.5,Georgia On My Mind.npy,0.458197
+0.4-0.5,All The Things You Are.npy,0.479497
+0.5-0.6,Tea For Two.npy,0.547337
+0.5-0.6,Something to Remind You  - Album Version.npy,0.511107
+0.5-0.6,Have Yourself A Meery Little Christmas.npy,0.574019
+0.5-0.6,Nocturne in B_ Op 62_ No 1.npy,0.542946
+0.5-0.6,Killing Me Softly.npy,0.582189
+0.5-0.6,A Certain Smile.npy,0.588449
+0.5-0.6,Since U Been Gone.npy,0.551002
+0.5-0.6,Straight Through My Heart.npy,0.539729
+0.5-0.6,Kismet Rag.npy,0.502608
+0.5-0.6,Interlude 1.npy,0.508788
+0.5-0.6,Ill Be Home For Christmas.npy,0.560805
+0.5-0.6,Woman In Love.npy,0.522539
+0.6-0.7,Over My Head.npy,0.697229
+0.6-0.7,Palm Leaf Rag - A Slow Drag.npy,0.663496
+0.6-0.7,Chega de Saudade.npy,0.639464
+0.6-0.7,MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.npy,0.617736
+0.6-0.7,Intro.npy,0.698365
+0.6-0.7,Closest Thing To Heaven (Solasso Dub).npy,0.666848
+0.6-0.7,Rook (2001 Digital Remaster).npy,0.683830
+0.6-0.7,A Secret Love.npy,0.675314
+0.6-0.7,Youre My 1.npy,0.642386
+0.6-0.7,Music Box.npy,0.629800
+0.6-0.7,Joy.npy,0.632783
+0.6-0.7,I Never Loved A Man The Way I Love You Stereo Version.npy,0.606533
+0.7-0.8,Red Red Wine.npy,0.794172
+0.7-0.8,Concerto In A Minor_ Op 16 Second Movement - Adagio.npy,0.760698
+0.7-0.8,First Call.npy,0.729427
+0.7-0.8,MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.npy,0.737241
+0.7-0.8,Sicilienne.npy,0.790036
+0.7-0.8,Until Its Time For Me To Go.npy,0.718788
+0.7-0.8,The Frail.npy,0.797703
+0.7-0.8,Mind Games (Album Version).npy,0.719139
+0.7-0.8,The Beat.npy,0.708387
+0.7-0.8,Never Gonna Let You Down.npy,0.733843
+0.7-0.8,Still Crazy After All These Years.npy,0.727069
+0.7-0.8,Blue Eyes.npy,0.722424
+0.8-0.9,Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.npy,0.846104
+0.8-0.9,2-minute Study in E.npy,0.897627
+0.8-0.9,My Baby Just Cares For Me.npy,0.856492
+0.8-0.9,Rays Blues.npy,0.860097
+0.8-0.9,Piece By Piece.npy,0.890132
+0.8-0.9,My Song (Album Version).npy,0.801774
+0.8-0.9,Sonatine Mouvement de menuet.npy,0.841902
+0.8-0.9,Shadows Of Time.npy,0.875508
+0.8-0.9,Babys House (Digitally Remastered 90).npy,0.818343
+0.8-0.9,All At Once.npy,0.896733
+0.8-0.9,Attention.npy,0.829653
+0.8-0.9,For Once In My Life (Album Version).npy,0.841679
+0.9-1.0,All The Things You Are (Reprise) - Live.npy,0.999116
+0.9-1.0,Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.npy,0.999509
+0.9-1.0,Until It's Time For You To Go - Live.npy,0.999373
+0.9-1.0,Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.npy,0.999714
+0.9-1.0,The Way We Were.npy,0.999676
+0.9-1.0,Come Sunday.npy,0.997472
+0.9-1.0,I Don't Stand A Ghost Of A Chance With You.npy,0.999770
+0.9-1.0,Willie The Weeper.npy,0.999746
+0.9-1.0,What Am I Here For.npy,0.999564
+0.9-1.0,Cottage For Sale.npy,0.999768
+0.9-1.0,A Wonderful Guy.npy,0.999313
+0.9-1.0,White Christmas.npy,0.912933

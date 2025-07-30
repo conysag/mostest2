@@ -1,0 +1,40 @@
+lists/audio/0.0-0.1_Here Comes My Baby.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
+lists/audio/0.0-0.1_Going To A Town.wav
+lists/audio/0.0-0.1_MIDI-Unprocessed_XP_16_R2_2004_01_ORIG_MID--AUDIO_16_R2_2004_03_Track03_wav.wav
+lists/audio/0.1-0.2_Any Day Now.wav
+lists/audio/0.1-0.2_You Needed Me.wav
+lists/audio/0.1-0.2_One for You_ One for Me.wav
+lists/audio/0.1-0.2_One for You_ One for Me.wav
+lists/audio/0.2-0.3_Unbreakable.wav
+lists/audio/0.2-0.3_The Long And Winding Road.wav
+lists/audio/0.2-0.3_The Last Farewell.wav
+lists/audio/0.2-0.3_Ruegame.wav
+lists/audio/0.3-0.4_As Long As She Loves Me.wav
+lists/audio/0.3-0.4_As Long As She Loves Me.wav
+lists/audio/0.3-0.4_As Long As She Loves Me.wav
+lists/audio/0.3-0.4_How Do You Keep the Music Playing.wav
+lists/audio/0.4-0.5_Georgia On My Mind.wav
+lists/audio/0.4-0.5_ToscaVissi darte.wav
+lists/audio/0.4-0.5_Lady Love.wav
+lists/audio/0.4-0.5_Allemande (by JS Bach).wav
+lists/audio/0.5-0.6_Straight From The Heart.wav
+lists/audio/0.5-0.6_Have Yourself A Meery Little Christmas.wav
+lists/audio/0.5-0.6_Ill Be Home For Christmas.wav
+lists/audio/0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
+lists/audio/0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
+lists/audio/0.6-0.7_Music Box.wav
+lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+lists/audio/0.7-0.8_Still Crazy After All These Years.wav
+lists/audio/0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
+lists/audio/0.7-0.8_The Frail.wav
+lists/audio/0.7-0.8_Never Gonna Let You Down.wav
+lists/audio/0.8-0.9_My Baby Just Cares For Me.wav
+lists/audio/0.8-0.9_Babys House (Digitally Remastered 90).wav
+lists/audio/0.8-0.9_Piece By Piece.wav
+lists/audio/0.8-0.9_All At Once.wav
+lists/audio/0.9-1.0_All The Things You Are (Reprise) - Live.wav
+lists/audio/0.9-1.0_White Christmas Makes Me Blue (Album Version).wav
+lists/audio/0.9-1.0_What Am I Here For.wav
+lists/audio/0.9-1.0_Willie The Weeper.wav

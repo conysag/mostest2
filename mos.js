@@ -60,7 +60,7 @@ function start_experiment() {
     /*
         or you can write simply as
     */
-    method_paths.push("lists/list" + set_num);
+    method_paths.push("lists/15_lists/list_" + set_num + ".txt");
     // method_paths.push(wav_dir + "set" + set_num + "/method2.list");
     /*
         end
@@ -182,10 +182,13 @@ function exportCSV() {
             + "\"" + comments[i].replace(/"/g, '""') + "\"\r\n";
     }
 
+    // UTF-8 BOM 추가
+    const BOM = "\uFEFF";
+    const blob = new Blob([BOM + csvData], { type: "text/csv" });
+
     const link = document.createElement("a");
     document.body.appendChild(link);
     link.style = "display:none";
-    const blob = new Blob([csvData], { type: "octet/stream" });
     const url = window.URL.createObjectURL(blob);
     link.href = url;
     link.download = outfile;

@@ -1,0 +1,40 @@
+lists/audio/0.0-0.1_Just Because.wav
+lists/audio/0.0-0.1_Something About The Way You Look Tonight.wav
+lists/audio/0.0-0.1_Going To A Town.wav
+lists/audio/0.0-0.1_Con Te Partirò.wav
+lists/audio/0.1-0.2_Late Summer Fields (ft Alucard).wav
+lists/audio/0.1-0.2_Cosas Del Amor.wav
+lists/audio/0.1-0.2_Girl Live LP Version.wav
+lists/audio/0.1-0.2_Ragazzo Fortunato.wav
+lists/audio/0.2-0.3_There Goes My Baby.wav
+lists/audio/0.2-0.3_Outro.wav
+lists/audio/0.2-0.3_Someday My Prince Will Come.wav
+lists/audio/0.2-0.3_Unbreakable.wav
+lists/audio/0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
+lists/audio/0.3-0.4_All By Myself.wav
+lists/audio/0.3-0.4_Let It Be.wav
+lists/audio/0.3-0.4_How Do You Keep the Music Playing.wav
+lists/audio/0.4-0.5_Far More (Album Version).wav
+lists/audio/0.4-0.5_Far More (Album Version).wav
+lists/audio/0.4-0.5_Georgia On My Mind.wav
+lists/audio/0.4-0.5_The Crave.wav
+lists/audio/0.5-0.6_Woman In Love.wav
+lists/audio/0.5-0.6_Since We Met.wav
+lists/audio/0.5-0.6_Ill Be Home For Christmas.wav
+lists/audio/0.5-0.6_Since We Met.wav
+lists/audio/0.6-0.7_Youre My 1.wav
+lists/audio/0.6-0.7_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.wav
+lists/audio/0.6-0.7_I Never Loved A Man The Way I Love You Stereo Version.wav
+lists/audio/0.6-0.7_Over My Head.wav
+lists/audio/0.7-0.8_Still Crazy After All These Years.wav
+lists/audio/0.7-0.8_Red Red Wine.wav
+lists/audio/0.7-0.8_Blue Eyes.wav
+lists/audio/0.7-0.8_Never Gonna Let You Down.wav
+lists/audio/0.8-0.9_Sonatine Mouvement de menuet.wav
+lists/audio/0.8-0.9_My Baby Just Cares For Me.wav
+lists/audio/0.8-0.9_Shadows Of Time.wav
+lists/audio/0.8-0.9_Babys House (Digitally Remastered 90).wav
+lists/audio/0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
+lists/audio/0.9-1.0_Come Sunday.wav
+lists/audio/0.9-1.0_All The Things You Are (Reprise) - Live.wav
+lists/audio/0.9-1.0_Willie The Weeper.wav

@@ -1,0 +1,40 @@
+lists/audio/0.0-0.1_210.wav
+lists/audio/0.0-0.1_Something About The Way You Look Tonight.wav
+lists/audio/0.0-0.1_Suleika 2.wav
+lists/audio/0.0-0.1_Con Te Partirò.wav
+lists/audio/0.1-0.2_Quizas Mañana.wav
+lists/audio/0.1-0.2_You Needed Me.wav
+lists/audio/0.1-0.2_Girl Live LP Version.wav
+lists/audio/0.1-0.2_Quizas Mañana.wav
+lists/audio/0.2-0.3_Ruegame.wav
+lists/audio/0.2-0.3_Deep River Woman.wav
+lists/audio/0.2-0.3_Sinkin Soon (iTunes Live Session).wav
+lists/audio/0.2-0.3_The Last Farewell.wav
+lists/audio/0.3-0.4_Round Midnight.wav
+lists/audio/0.3-0.4_Waltz in C sharp minor_ Op 64_ No 2.wav
+lists/audio/0.3-0.4_The Entertainer.wav
+lists/audio/0.3-0.4_Weve Only Just Begun (Digitally Remastered).wav
+lists/audio/0.4-0.5_Every Time You Lie.wav
+lists/audio/0.4-0.5_Stella By Starlight.wav
+lists/audio/0.4-0.5_Song For The Dumped.wav
+lists/audio/0.4-0.5_The Crave.wav
+lists/audio/0.5-0.6_Ill Be Home For Christmas.wav
+lists/audio/0.5-0.6_Ill Be Home For Christmas.wav
+lists/audio/0.5-0.6_Smile.wav
+lists/audio/0.5-0.6_Have Yourself A Meery Little Christmas.wav
+lists/audio/0.6-0.7_Chega de Saudade.wav
+lists/audio/0.6-0.7_Introspection.wav
+lists/audio/0.6-0.7_Palm Leaf Rag - A Slow Drag.wav
+lists/audio/0.6-0.7_MIDI-Unprocessed_14_R1_2008_01-05_ORIG_MID--AUDIO_14_R1_2008_wav--4.wav
+lists/audio/0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
+lists/audio/0.7-0.8_Sicilienne.wav
+lists/audio/0.7-0.8_Until Its Time For Me To Go.wav
+lists/audio/0.7-0.8_She Loves You (As made famous by The Beatles).wav
+lists/audio/0.8-0.9_Shadows Of Time.wav
+lists/audio/0.8-0.9_My Baby Just Cares For Me.wav
+lists/audio/0.8-0.9_Scarlatti -  Sonata in D minor K9, L413 Allegro - Live in Paris  2018.wav
+lists/audio/0.8-0.9_Piece By Piece.wav
+lists/audio/0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
+lists/audio/0.9-1.0_A Wonderful Guy.wav
+lists/audio/0.9-1.0_Sophisticated Lady - Live At Maybeck Recital Hall, Berkeley, CA  July 10, 1994.wav
+lists/audio/0.9-1.0_The Way We Were.wav

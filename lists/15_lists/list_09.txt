@@ -1,0 +1,40 @@
+lists/audio/0.0-0.1_Just Because.wav
+lists/audio/0.0-0.1_The Roof.wav
+lists/audio/0.0-0.1_Here Comes My Baby.wav
+lists/audio/0.0-0.1_Going To A Town.wav
+lists/audio/0.1-0.2_Ragazzo Fortunato.wav
+lists/audio/0.1-0.2_Girl Live LP Version.wav
+lists/audio/0.1-0.2_Late Summer Fields (ft Alucard).wav
+lists/audio/0.1-0.2_Georgia on My Mind.wav
+lists/audio/0.2-0.3_Unbreakable.wav
+lists/audio/0.2-0.3_Ruegame.wav
+lists/audio/0.2-0.3_Outro.wav
+lists/audio/0.2-0.3_Ruegame.wav
+lists/audio/0.3-0.4_The Entertainer.wav
+lists/audio/0.3-0.4_Professional Widow (LP Version).wav
+lists/audio/0.3-0.4_Professional Widow (LP Version).wav
+lists/audio/0.3-0.4_Doctor Wu.wav
+lists/audio/0.4-0.5_The Crave.wav
+lists/audio/0.4-0.5_ToscaVissi darte.wav
+lists/audio/0.4-0.5_I Could Not Ask For More (LP Version).wav
+lists/audio/0.4-0.5_The Crave.wav
+lists/audio/0.5-0.6_Nocturne in B_ Op 62_ No 1.wav
+lists/audio/0.5-0.6_Kismet Rag.wav
+lists/audio/0.5-0.6_Interlude 1.wav
+lists/audio/0.5-0.6_Since We Met.wav
+lists/audio/0.6-0.7_Chega de Saudade.wav
+lists/audio/0.6-0.7_Joy.wav
+lists/audio/0.6-0.7_Joy.wav
+lists/audio/0.6-0.7_Over My Head.wav
+lists/audio/0.7-0.8_Mind Games (Album Version).wav
+lists/audio/0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
+lists/audio/0.7-0.8_MIDI-Unprocessed_SMF_12_01_2004_01-05_ORIG_MID--AUDIO_12_R1_2004_08_Track08_wav.wav
+lists/audio/0.7-0.8_Concerto In A Minor_ Op 16 Second Movement - Adagio.wav
+lists/audio/0.8-0.9_Rays Blues.wav
+lists/audio/0.8-0.9_Rays Blues.wav
+lists/audio/0.8-0.9_Shadows Of Time.wav
+lists/audio/0.8-0.9_Shadows Of Time.wav
+lists/audio/0.9-1.0_Until It's Time For You To Go - Live.wav
+lists/audio/0.9-1.0_Nice Work If You Can Get It - Live At Maybeck Recital Hall, Berkeley, CA  February 16, 1992.wav
+lists/audio/0.9-1.0_Until It's Time For You To Go - Live.wav
+lists/audio/0.9-1.0_The Way We Were.wav
