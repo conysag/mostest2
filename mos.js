@@ -70,6 +70,8 @@ function start_experiment() {
     outfile = name + "_set" + set_num + ".csv";
     scores = (new Array(file_list.length)).fill(0);
     comments = (new Array(file_list.length)).fill("");
+    rank1s = (new Array(file_list.length)).fill("");
+    rank2s = (new Array(file_list.length)).fill("");
     eval = document.getElementsByName("eval");
     init();
 }
@@ -116,6 +118,7 @@ function init() {
     setAudio();
     evalCheck();
     commentCheck();
+    rankCheck();
     setButton();
 }
 
@@ -133,6 +136,11 @@ function evalCheck() {
 
 function commentCheck() {
     document.getElementById("comment").value = comments[n];
+}
+
+function rankCheck() {
+    document.getElementById("rank1").value = rank1s[n];
+    document.getElementById("rank2").value = rank2s[n];
 }
 
 function setButton() {
@@ -175,10 +183,12 @@ function evaluation() {
 }
 
 function exportCSV() {
-    var csvData = "File,Score,Comment\n";
+    var csvData = "File,Score,Rank1,Rank2,Comment\n";
     for (var i = 0; i < file_list.length; i++) {
         csvData += "" + file_list[i] + ","
             + scores[i] + ","
+            + rank1s[i] + ","
+            + rank2s[i] + ","
             + "\"" + comments[i].replace(/"/g, '""') + "\"\r\n";
     }
 
@@ -198,30 +208,38 @@ function exportCSV() {
 }
 
 function next() {
-    // Save current comment
+    // Save current comment and ranks
     comments[n] = document.getElementById("comment").value;
+    rank1s[n] = document.getElementById("rank1").value;
+    rank2s[n] = document.getElementById("rank2").value;
     
     n++;
     setAudio();
     evalCheck();
     commentCheck();
+    rankCheck();
     setButton();
 }
 
 function prev() {
-    // Save current comment
+    // Save current comment and ranks
     comments[n] = document.getElementById("comment").value;
+    rank1s[n] = document.getElementById("rank1").value;
+    rank2s[n] = document.getElementById("rank2").value;
     
     n--;
     setAudio();
     evalCheck();
     commentCheck();
+    rankCheck();
     setButton();
 }
 
 function finish() {
-    // Save current comment
+    // Save current comment and ranks
     comments[n] = document.getElementById("comment").value;
+    rank1s[n] = document.getElementById("rank1").value;
+    rank2s[n] = document.getElementById("rank2").value;
     
     exportCSV();
 }
@@ -238,6 +256,8 @@ var outfile;
 var file_list;
 var scores;
 var comments;
+var rank1s;
+var rank2s;
 
 // since loadText() doesn't work in local
 var n = 0;
