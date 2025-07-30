@@ -113,17 +113,31 @@
             <label><input type="checkbox" name="elements" value="none">⑤なし (None)</label><br>
         </p>
 
-        <p>
-            <label for="comment">選んだ理由 (任意) / Reason for your choice (optional): <br>
-            <textarea id="comment" name="comment" rows="4" cols="50" placeholder="テンポ、リズム、メロディー、和声 など / Tempo, rhythm, melody, harmony, etc."></textarea></label>
-        </p>
+
 
         <p>
             <button id="prev" onclick="prev()">prev</button>
             <button id="next2" onclick="next()">next</button>
-            <button id="finish" onclick="finish()">finish</button>
+            <button id="finish" onclick="showFinalComment()">finish</button>
         </p>
 
+    </div>
+
+    <div id="Display3" style="display:none;">
+        <h2>実験完了 / Experiment Complete</h2>
+        <p>全ての評価が完了しました。最後に総合コメントを入力してください。<br>
+        All evaluations are complete. Please provide a final comment.</p>
+        
+        <p>
+            <label for="finalComment">総合コメント (任意) / Final comment (optional): <br>
+            <textarea id="finalComment" name="finalComment" rows="6" cols="60" placeholder="実験全体を通して感じたこと、特筆すべき点、評価の際に気づいたことなど / Overall impressions, notable points, observations during evaluation, etc."></textarea></label>
+        </p>
+
+        <p>
+            <button id="downloadResult" onclick="finish()">結果をダウンロード / Download Results</button>
+        </p>
+
+    </div>
 
 </body>
 

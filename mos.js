@@ -69,8 +69,8 @@ function start_experiment() {
     file_list = makeFileList(method_paths);
     outfile = name + "_set" + set_num + ".csv";
     scores = (new Array(file_list.length)).fill(0);
-    comments = (new Array(file_list.length)).fill("");
     elements = (new Array(file_list.length)).fill("");
+    finalComment = "";
     eval = document.getElementsByName("eval");
     init();
 }
@@ -116,7 +116,6 @@ function init() {
     n = 0;
     setAudio();
     evalCheck();
-    commentCheck();
     elementsCheck();
     setButton();
 }
@@ -133,9 +132,7 @@ function evalCheck() {
     }
 }
 
-function commentCheck() {
-    document.getElementById("comment").value = comments[n];
-}
+
 
 function elementsCheck() {
     // Clear all checkboxes first
@@ -206,12 +203,16 @@ function evaluation() {
 }
 
 function exportCSV() {
-    var csvData = "File,Score,Elements,Comment\n";
+    var csvData = "File,Score,Elements\n";
     for (var i = 0; i < file_list.length; i++) {
         csvData += "" + file_list[i] + ","
             + scores[i] + ","
-            + elements[i] + ","
-            + "\"" + comments[i].replace(/"/g, '""') + "\"\r\n";
+            + elements[i] + "\r\n";
+    }
+    
+    // Add final comment as a separate section
+    if (finalComment !== "") {
+        csvData += "\nFinal Comment,\"" + finalComment.replace(/"/g, '""') + "\"\n";
     }
 
     // UTF-8 BOM 추가
@@ -230,35 +231,39 @@ function exportCSV() {
 }
 
 function next() {
-    // Save current comment and elements
-    comments[n] = document.getElementById("comment").value;
+    // Save current elements
     saveElements();
     
     n++;
     setAudio();
     evalCheck();
-    commentCheck();
     elementsCheck();
     setButton();
 }
 
 function prev() {
-    // Save current comment and elements
-    comments[n] = document.getElementById("comment").value;
+    // Save current elements
     saveElements();
     
     n--;
     setAudio();
     evalCheck();
-    commentCheck();
     elementsCheck();
     setButton();
 }
 
-function finish() {
-    // Save current comment and elements
-    comments[n] = document.getElementById("comment").value;
+function showFinalComment() {
+    // Save current elements
     saveElements();
+    
+    // Hide Display2 and show Display3
+    document.getElementById("Display2").style.display = "none";
+    document.getElementById("Display3").style.display = "block";
+}
+
+function finish() {
+    // Save final comment
+    finalComment = document.getElementById("finalComment").value;
     
     exportCSV();
 }
@@ -274,8 +279,8 @@ document.onkeypress = invalid_enter();
 var outfile;
 var file_list;
 var scores;
-var comments;
 var elements;
+var finalComment;
 
 // since loadText() doesn't work in local
 var n = 0;
